@@ -4,7 +4,7 @@
 
 	
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<title>Felix - FavCode Test</title>
+	<title>Chiamaka (Felix-FavCode Test)</title>
 
 	<meta name="description" content="African development through partnership">
 
@@ -12,7 +12,7 @@
 	<!-- Open Graph data -->
 	<meta property="og:title" content="Submission for Felix - Favcode ">
 	<meta property="og:type" content="article">
-	<meta property="og:image" content="Felix%20-%20Favcoder_files/art.png">
+	<meta property="og:image" content="">
 	<meta property="og:description" content="African development through partnership">
 
 	<link href="res/css/style.css" rel="stylesheet" />
