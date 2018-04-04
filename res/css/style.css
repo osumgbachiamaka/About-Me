@@ -143,7 +143,7 @@ footer #link{
     }
 }@media only screen and (max-width: 460px) {
     .header span{
-    margin-left: 0px;
+        margin-left: 0px;
     }
     #intro-span #main{
         width: 90%;
@@ -157,7 +157,7 @@ footer #link{
         text-align: left;
     }
     #caption{
-        margin-top: -40px;
+        margin-top: -35px;
     }
     .get-started{
         padding: 10px;
